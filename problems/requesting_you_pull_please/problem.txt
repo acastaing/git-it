@@ -15,12 +15,12 @@
   Create a pull request
   ---------------------{/bold}{/cyan}
   
-  - visit the original repository you forked on GitHub, in this case
+  Visit the original repository you forked on GitHub, in this case
   {bold}http://www.github.com/jlord/patchwork{/bold}
   
   Often GitHub will detect if you've pushed a branch to a fork and 
   display it at the top of the original's website. If you see that, 
-  you can click Create Pull Request. If not:
+  you can click {bold}Create Pull Request{/bold}. If not:
   
   - Click 'Pull request' on the right-side menu, then 'New pull request'.
   - Select the branch with the changes you want to submit (it should be
@@ -33,10 +33,10 @@
   
   If everything good, and as you expect it:
   
-  - click 'Create pull request'
+  - Click 'Create pull request'.
   - Add a title and description to the changes you're suggesting the 
   original author pull in.
-  - click 'Send pull request'!
+  - Click 'Send pull request'!
   
   High five! When you've submitted your pull request, take a few 
   seconds to bask in the moment. Then see if your pull request is
